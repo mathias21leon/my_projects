@@ -1,5 +1,5 @@
 # my_projects
-EDA con enfoque descriptivo para evaluacion de rendimiento estudiantil
+**Descriptive EDA for Student Performance Evaluation**
 # Objective
 
 The objective of this project was to determine whether there were performance gaps between genders in exams. Additionally, it aimed to investigate whether students with free lunch had lower performance compared to those without free lunch, create graphs to visualize grade distribution, present a trends report, and identify which groups of students might require additional support.
